@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Gemini AI" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>GPS ART MASJID BANDUNG</name>
+    <desc>Rute presisi mengikuti jalanan di pusat kota Bandung</desc>
+  </metadata>
+  <trk>
+    <name>Masjid Shape Route</name>
+    <trkseg>
+      <trkpt lat="-6.9175" lon="107.6070"></trkpt>
+      <trkpt lat="-6.9210" lon="107.6070"></trkpt>
+      
+      <trkpt lat="-6.9215" lon="107.6060"></trkpt>
+      <trkpt lat="-6.9215" lon="107.6110"></trkpt>
+      
+      <trkpt lat="-6.9205" lon="107.6125"></trkpt>
+      <trkpt lat="-6.9180" lon="107.6130"></trkpt>
+      <trkpt lat="-6.9160" lon="107.6115"></trkpt> <trkpt lat="-6.9180" lon="107.6095"></trkpt>
+      <trkpt lat="-6.9205" lon="107.6085"></trkpt>
+      
+      <trkpt lat="-6.9175" lon="107.6110"></trkpt>
+      <trkpt lat="-6.9210" lon="107.6110"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
